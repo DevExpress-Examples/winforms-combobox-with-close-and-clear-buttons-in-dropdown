@@ -9,7 +9,7 @@
 
 This example creates a custom combobox editor that displays close and clear buttons in the dropdown:
 
-![WinForms ComboBoxEdit - Display close and clear buttons in the dropdown](https://raw.githubusercontent.com/DevExpress-Examples/how-to-show-the-close-and-clear-buttons-in-a-comboboxedit-popup-window-e3087/13.1.4%2B/media/winforms-combobox-with-close-clear-buttons.png)
+![WinForms ComboBoxEdit - Display close and clear buttons in the dropdown](media/winforms-combobox-with-close-clear-buttons.png)
 
 
 ## Files to Review
@@ -31,3 +31,4 @@ This example creates a custom combobox editor that displays close and clear butt
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
